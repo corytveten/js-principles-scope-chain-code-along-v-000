@@ -18,3 +18,7 @@ function overWriteBestCustomer() {
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'bob';
 }
+
+function attemptTwoFavoriteCustomers() {
+    let favoriteCustomer = "jim";
+}
